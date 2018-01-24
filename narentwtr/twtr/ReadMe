@@ -1,0 +1,7 @@
+Update your 
+spring.social.twitter.appId=appId
+spring.social.twitter.appSecret=appSecret
+at >> narentwtr\twtr\src\main\resources\application.properties
+1.mvn package
+2. mvn spring-boot:run
+3. http://localhost:8080/twtr
